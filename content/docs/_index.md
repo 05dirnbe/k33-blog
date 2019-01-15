@@ -1,10 +1,10 @@
 ---
-title: Documentation
-linkTitle: Docs
+title: Archive
+linkTitle: Archive
 menu:
   main:
   sidebar:
-    identifier: docs
-weight: -250
-slug: docs
+    identifier: archive
+weight: -200
+slug: archive
 ---

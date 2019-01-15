@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = ""
 
-Paginate = 5
+Paginate = 10
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = ""
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -33,9 +33,9 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "Michael Dirnberger"
+holder = "k33 Experts."
 startYear = "2018"
-suffix = ""
+suffix = "Please see our [legal note](/en/blog/info/legal) and [privacy statement](/en/blog/info/privacy). Built with [Hugo](https://gohugo.io/) and the [Minimo theme](https://themes.gohugo.io/minimo/)."
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -128,10 +128,17 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+  name = "Hire me!"
+  weight = -10
+  identifier = "k33"
+  url = "http://localhost:62133/en/"
+
+[[menu.main]]
+  name    = "courses"
+  weight  = -15
+  identifier = "courses"
+  url     = "https://k-33-academy.thinkific.com/collections"
+
 
 [blackfriday]
 hrefTargetBlank = true
@@ -142,3 +149,22 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+[Languages.en.params.contact]
+  firma = "k33 Experts e.U."
+  name = "Michael Dirnberger"
+  street = "Burgenlandstraße 9"
+  town = "9800 Spittal an der Drau"
+  country = "Austria"
+  address = "Burgenlandstraße 9, 9800 Spittal an der Drau, Austria"
+  phone   = "(03) 9283 2617"
+  fax     = "+61 3827 3590"
+  mail = "office@k-33.at"
+  purpose = "Services in automatic data processing and information technology"
+  uid = "VAT"
+  companynumber = "Firmenbuchnummer"
+  companycourt = "Firmenbuchgericht"
+  memberships = "WKÖ"
+  regulation = "Gewerbeordnung"
+  regulator = "Magistrat Graz"
+  content = "Information on modern technologies centering around the topic of graphs."
