@@ -33,7 +33,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "k33 Experts."
+holder = "[k33 Experts](http://localhost:62133/en/)."
 startYear = "2018"
 suffix = "Please see our [legal note](/en/blog/info/legal) and [privacy statement](/en/blog/info/privacy). Built with [Hugo](https://gohugo.io/) and the [Minimo theme](https://themes.gohugo.io/minimo/)."
 
@@ -149,6 +149,12 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+[Languages.en.cookies]
+    dismiss = "I Agree."
+    message = "We use cookies to offer you a better experience and to gain insight into site traffic. By continuing to use this website, you consent to the use of cookies as explained in our "
+    href = "info/privacy"
+    link = "privacy policy."
 
 [Languages.en.params.contact]
   firma = "k33 Experts e.U."
