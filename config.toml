@@ -131,7 +131,7 @@ page = "/:slug/"
   name = "Hire me!"
   weight = -10
   identifier = "k33"
-  url = "http://localhost:62133/en/"
+  url = "https://localhost:62133/en/"
 
 [[menu.main]]
   name    = "courses"
