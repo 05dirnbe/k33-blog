@@ -33,7 +33,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "[k33 Experts](http://localhost:62133/en/)."
+holder = "[k33 Experts](https://localhost:62133/en/)."
 startYear = "2018"
 suffix = "Please see our [legal note](/en/blog/info/legal) and [privacy statement](/en/blog/info/privacy). Built with [Hugo](https://gohugo.io/) and the [Minimo theme](https://themes.gohugo.io/minimo/)."
 
@@ -72,17 +72,17 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
+codepen = ""
 email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
-youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+facebook = ""
+github = "https://github.com/05dirnbe"
+gitlab = ""
+instagram = ""
+linkedin = "https://www.linkedin.com/in/michael-dirnberger-0ba1b0171/"
+twitter = ""
+telegram = ""
+google_scholar = ""
+youtube = ""
 
 [params.comments]
 enable = false
