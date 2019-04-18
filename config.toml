@@ -1,4 +1,4 @@
-baseURL = "https://loving-thompson-d0a044.netlify.com/"
+baseURL = "https://blog.k33experts.com/"
 title = "k33 Blog"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -33,7 +33,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "[k33 Experts](https://localhost:62133/en/)."
+holder = "[k33 Experts](https://k33experts.com/en/)."
 startYear = "2018"
 suffix = "Please see our [legal note](/en/blog/info/legal) and [privacy statement](/en/blog/info/privacy). Built with [Hugo](https://gohugo.io/) and the [Minimo theme](https://themes.gohugo.io/minimo/)."
 
@@ -131,13 +131,13 @@ page = "/:slug/"
   name = "Hire me!"
   weight = -10
   identifier = "k33"
-  url = "https://localhost:62133/en/"
+  url = "https://k33experts.com/en/service/"
 
 [[menu.main]]
   name    = "courses"
   weight  = -15
   identifier = "courses"
-  url     = "https://k-33-academy.thinkific.com/collections"
+  url     = "https://33experts.com"
 
 
 [blackfriday]
