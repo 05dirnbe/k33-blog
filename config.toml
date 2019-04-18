@@ -135,13 +135,13 @@ page = "/:slug/"
 
 [[menu.main]]
   name    = "courses"
-  weight  = -15
+  weight  = -20
   identifier = "courses"
   url     = "https://k33-academy.thinkific.com/courses"
 
 [[menu.main]]
   name    = "Subscribe"
-  weight  = -20
+  weight  = -15
   identifier = "subscribe"
   url     = "https://eepurl.com/goqHb5"
 
