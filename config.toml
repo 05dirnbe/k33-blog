@@ -139,6 +139,12 @@ page = "/:slug/"
   identifier = "courses"
   url     = "https://k33-academy.thinkific.com/courses"
 
+[[menu.main]]
+  name    = "Subscribe"
+  weight  = -20
+  identifier = "subscribe"
+  url     = "https://eepurl.com/goqHb5"
+
 
 [blackfriday]
 hrefTargetBlank = true
