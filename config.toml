@@ -137,7 +137,7 @@ page = "/:slug/"
   name    = "courses"
   weight  = -15
   identifier = "courses"
-  url     = "https://academy.k33experts.com"
+  url     = "https://k33-academy.thinkific.com/courses"
 
 
 [blackfriday]
