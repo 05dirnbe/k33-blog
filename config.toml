@@ -1,4 +1,4 @@
-baseURL = "https://blog.k33experts.com/"
+baseURL = "https://k33experts.com/en/blog"
 title = "k33 Blog"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -137,7 +137,7 @@ page = "/:slug/"
   name    = "courses"
   weight  = -15
   identifier = "courses"
-  url     = "https://33experts.com"
+  url     = "https://academy.k33experts.com"
 
 
 [blackfriday]
