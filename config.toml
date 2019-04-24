@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = ""
+description = "This is the official blog of k33 Experts. Here we talk about all things graphs and other things we find interesting and useful."
 title404 = "Nothing's here!"
 
 [params.assets]
