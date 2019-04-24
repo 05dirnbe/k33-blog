@@ -65,7 +65,7 @@ appID = ""
 pageID = ""
 
 [params.opengraph.twitter]
-page = "https://twitter.com/k33experts" # Twitter page username
+page = "k33experts" # Twitter page username
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
@@ -75,11 +75,11 @@ titleSeparator = "•"
 codepen = ""
 email = "contact@example.com"
 facebook = ""
-github = "https://github.com/05dirnbe"
+github = "05dirnbe"
 gitlab = ""
 instagram = ""
-linkedin = "https://www.linkedin.com/in/michael-dirnberger-0ba1b0171/"
-twitter = "https://twitter.com/k33experts"
+linkedin = "michael-dirnberger-0ba1b0171/"
+twitter = "k33experts"
 telegram = ""
 google_scholar = ""
 youtube = ""
