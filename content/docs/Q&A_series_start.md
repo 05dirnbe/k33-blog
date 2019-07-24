@@ -6,7 +6,6 @@ categories:
   - Q&A
 tags:
   - questions
-  - industry
 slug: Q&A_start
 toc: false
 draft: false
