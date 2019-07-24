@@ -35,7 +35,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 prefix = ""
 holder = "[k33 Experts](https://k33experts.com/en/)."
 startYear = "2018"
-suffix = "Please see our [legal note](/en/blog/info/legal) and [privacy statement](/en/blog/info/privacy). Built with [Hugo](https://gohugo.io/) and the [Minimo theme](https://themes.gohugo.io/minimo/)."
+suffix = "Please see our [legal note](/info/legal) and [privacy statement](/info/privacy). Built with [Hugo](https://gohugo.io/) and the [Minimo theme](https://themes.gohugo.io/minimo/)."
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -173,9 +173,9 @@ weight = 1
   fax     = ""
   mail = "contact@k33experts.com"
   purpose = "Services in automatic data processing and information technology"
-  uid = "VAT"
-  companynumber = "Firmenbuchnummer"
-  companycourt = "Firmenbuchgericht"
+  uid = "ATU74352201"
+  companynumber = "FN 512847 m"
+  companycourt = "Landesgericht f. ZRS Graz, Marburgerkai 49, 8010 Graz"
   memberships = "WKÖ"
   regulation = "Gewerbeordnung"
   regulator = "Magistrat Graz"
