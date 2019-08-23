@@ -1,5 +1,5 @@
 ---
-date: 2019-07-24T15:00:00+06:00
+date: 2019-08-18T15:00:00+06:00
 title: "A Q&A series"
 authors: ["mdirnberger"]
 categories:
