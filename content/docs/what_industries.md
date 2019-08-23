@@ -1,15 +1,15 @@
 ---
-date: 2019-07-25T15:00:00+06:00
-title: "Q: What industries use graphs?"
+date: 2019-08-25T15:00:00+06:00
+title: "What industries use graphs?"
 authors: ["mdirnberger"]
 categories:
   - Q&A
 tags:
   - questions
-  - industry
-slug: what-industries
+  - Industry
+slug: what_industries
 toc: false
-draft: false
+draft: true
 ---
 
 ## A: Practically all industries ... at least they should!
